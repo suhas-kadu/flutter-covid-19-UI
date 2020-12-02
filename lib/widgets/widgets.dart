@@ -58,12 +58,12 @@ class _MyHeaderState extends State<MyHeader> {
                   SvgPicture.asset(
                     widget.imgUrl2,
                     fit: BoxFit.cover,
-                    width: 230,
+                    width: 200,
                     alignment: Alignment.topCenter,
                   ),
                   Positioned(
                       top: 30,
-                      left: 170,
+                      left: 150,
                       child: Text(
                         widget.desc,
                         style: kHeadingTextStyle.copyWith(color: Colors.white),

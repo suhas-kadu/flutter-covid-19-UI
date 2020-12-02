@@ -15,7 +15,7 @@ final kIndigoColor = Color(0xFF4B0082);
 
 // Text Style
 const kHeadingTextStyle = TextStyle(
-  fontSize: 22,
+  fontSize: 20,
   fontWeight: FontWeight.w600,
 );
 
